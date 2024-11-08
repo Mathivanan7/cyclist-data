@@ -7,5 +7,5 @@ approve your recommendations, so they must be backed up with compelling data ins
 professional data visualizations.
 
 
-Here I provide link to my PowerBI analysis document google drive link. because of size constrains in github i couldnt able to upload it deriectly
+Here I provide link to my PowerBI analysis document google drive link. Because of size constrains in github i couldnt able to upload it direcctly.
   https://drive.google.com/drive/folders/0BzU-JfUvHXS9VUxvMHNfekdvS0k?resourcekey=0-1O12fNPTxdNaK9Am1Fv3aA&usp=sharing
